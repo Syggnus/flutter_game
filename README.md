@@ -1,6 +1,6 @@
 # 2º Desafio Escribo 
 
-![Licença](https://img.shields.io/github/license/Syggnus/flutter_game)
+![Licença](https://img.shields.io/github/license/Syggnus/primeiro_desafio_escribo) 
 ![Issues](https://img.shields.io/github/issues/Syggnus/flutter_game)
 ![Stars](https://img.shields.io/github/stars/Syggnus/flutter_game)
 ## 🔗 Objetivo
