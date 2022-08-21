@@ -1,6 +1,6 @@
 # 2º Desafio Escribo 
 
-![Licença](https://img.shields.io/github/license/Syggnus/primeiro_desafio_escribo) 
+![Licença](https://img.shields.io/github/license/Syggnus/flutter_game) 
 ![Issues](https://img.shields.io/github/issues/Syggnus/flutter_game)
 ![Stars](https://img.shields.io/github/stars/Syggnus/flutter_game)
 ## 🔗 Objetivo
@@ -44,7 +44,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 - [VSCode](https://code.visualstudio.com/)
 
-### 🔗 Rodando no VSCode
+### 🔗 Rodando no VSCode (Windows)
 #### Com o VSCode devidamente baixado e instalado na máquina, realize os seguintes passos para a execução do programa:
 
 - Clone este repositório
@@ -63,13 +63,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
    ~~~bash
    flutter pub get
    ~~~
-- Vá para a pasta bin
-   ~~~bash
-   cd lib
-   ~~~
+
 - Execute a aplicação
    ~~~bash
-   dart main.dart
+   Ctrl + F5
    ~~~
 
 - Escolha a Opção de Desktop
@@ -84,11 +81,15 @@ Você pode andar com as teclas:
 
 Pode atacar os inimigos usando:
 
-      Space
+      Spaço
 
-Cogumelos Normais Adicionam 100 pontos ao Score
+Cogumelos Normais:
 
-Cogumelos Vermelhos aumentam o dano para 100 (Hit Kill) e Add 100 pontos ao Score
+    Adiciona 100 pontos ao Score
+
+Cogumelos Vermelhos:
+
+    aumentam o dano para 100 (Hit Kill) e Add 100 pontos ao Score
 
 RoadMap:
    - [ok] Mapa:
@@ -140,4 +141,4 @@ Chuan Igor Ferreira Feitosa
 
 ## 🔗 Licença
 ---
-![Licença](https://img.shields.io/github/license/Syggnus/primeiro_desafio_escribo) 
+![Licença](https://img.shields.io/github/license/Syggnus/flutter_game) 
