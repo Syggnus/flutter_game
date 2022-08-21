@@ -1,8 +1,8 @@
-# 1º Desafio Escribo 
+# 2º Desafio Escribo 
 
-![Licença](https://img.shields.io/github/license/Syggnus/maze)
-![Issues](https://img.shields.io/github/issues/Syggnus/maze)
-![Stars](https://img.shields.io/github/stars/Syggnus/maze)
+![Licença](https://img.shields.io/github/license/Syggnus/flutter_game)
+![Issues](https://img.shields.io/github/issues/Syggnus/flutter_game)
+![Stars](https://img.shields.io/github/stars/Syggnus/flutter_game)
 ## 🔗 Objetivo
 ---
 O objetivo deste teste é implementar um jogo de labirinto no flutter.
@@ -49,12 +49,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 - Clone este repositório
    ~~~bash
-   git clone https://github.com/Syggnus/Maze.git
+   git clone https://github.com/Syggnus/flutter_game.git
    ~~~
 
 - Acesse a pasta raiz do projeto no VSCode:
    ~~~bash
-   /Maze
+   /flutter_game
    ~~~
    
 - Instale no VSCode a Extensão do Flutter
